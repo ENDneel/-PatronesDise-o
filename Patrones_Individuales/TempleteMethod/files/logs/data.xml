@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><payments>
+    <payment graduated="yes">
+        <id>001</id>
+        <customer>10</customer>
+        <amount>100</amount>
+        <date>10/03/2015</date>
+        <nombre>nombre 1</nombre>
+        <apellido>apellido 1</apellido>
+        <card>4770406045647</card>
+    <result>001Nnombre 1	Aapellido 1	 E10	10/03/2015 	4770406045647 Successfully payment</result></payment>
+    <payment>
+        <id>002</id>
+        <customer>12</customer>
+        <amount>50</amount>
+        <date>12/03/2015</date>
+          <nombre>nombre 2</nombre>
+        <apellido>apellido 2</apellido>
+        <card>477040601232</card>
+    <result>002N nombre 2	 A apellido 2	 E 12	12/03/2015 Customer not exist</result></payment>
+    <payment>
+        <id>003</id>
+        <customer>13</customer>
+        <amount>90</amount>
+        <date>13/03/2015</date>
+          <nombre>nombre 3</nombre>
+        <apellido>apellido 3</apellido>
+        <card>477040609875</card>
+    <result>003N nombre 3	 A apellido 3	 E 13	13/03/2015 Customer not exist</result></payment>
+    <payment>
+        <id>004</id>
+        <customer>10</customer>
+        <amount>150</amount>
+        <date>13/03/2015</date>
+          <nombre>nombre 1</nombre>
+        <apellido>apellido 1</apellido>
+        <card>477040601234</card>
+    <result>004Nnombre 1	Aapellido 1	 E10	13/03/2015 	477040601234 Successfully payment</result></payment>
+    <payment>
+        <id>005</id>
+        <customer>11</customer>
+        <amount>200</amount>
+        <date>14/03/2015</date>
+          <nombre>nombre 11</nombre>
+        <apellido>apellido 11</apellido>
+        <card>477040601235</card>
+    <result>005N nombre 11	 A apellido 11	 E 11	14/03/2015 Customer not exist</result></payment>
+    <payment>
+        <id>006</id>
+        <customer>20</customer>
+        <amount>125</amount>
+        <date>14/03/2015</date>
+          <nombre>nombre 20</nombre>
+        <apellido>apellido 20</apellido>
+        <card>477040601236</card>
+    <result>006Nnombre 20	Aapellido 20	 E20	14/03/2015 	477040601236 Successfully payment</result></payment>
+    <payment>
+        <id>007</id>
+        <customer>12</customer>
+        <amount>010</amount>
+        <date>14/03/2015</date>
+         <nombre>nombre 2</nombre>
+        <apellido>apellido 2</apellido>
+        <card>477040601237</card>
+    <result>007N nombre 2	 A apellido 2	 E 12	14/03/2015 Customer not exist</result></payment>
+    <payment>
+        <id>008</id>
+        <customer>30</customer>
+        <amount>111</amount>
+        <date>14/03/2015</date>
+         <nombre>nombre 30</nombre>
+        <apellido>apellido 30</apellido>
+        <card>477040601239</card>
+    <result>008Nnombre 30	Aapellido 30	 E30	14/03/2015 	477040601239 Successfully payment</result></payment>
+
+    <payment>
+        <id>009</id>
+        <customer>40</customer>
+        <amount>321</amount>
+        <date>15/03/2015</date>
+         <nombre>nombre 40</nombre>
+        <apellido>apellido 40</apellido>
+        <card>477040601239</card>
+    <result>009 Nnombre 40	 Aapellido 40	 E 40	15/03/2015 The amount exceeds the maximum</result></payment>
+    <payment>
+        <id>010</id>
+        <customer>50</customer>
+        <amount>241</amount>
+        <date>16/03/2015</date>
+         <nombre>nombre 50</nombre>
+        <apellido>apellido 50</apellido>
+        <card>477040601240</card>
+    <result>010 Nnombre 50	 Aapellido 50	 E 50	16/03/2015 The amount exceeds the maximum</result></payment>
+        <payment>
+        <id>011</id>
+        <customer>70</customer>
+        <amount>241</amount>
+        <date>16/03/2015</date>
+         <nombre>nombre 70</nombre>
+        <apellido>apellido 70</apellido>
+        <card>477040601240</card>
+    <result>011 Nnombre 70	 Aapellido 70	 E 70	16/03/2015 The amount exceeds the maximum</result></payment>
+
+    <payment>
+        <id>012</id>
+        <customer>26</customer>
+        <amount>241</amount>
+        <date>16/03/2015</date>
+         <nombre>nombre 26</nombre>
+        <apellido>apellido 26</apellido>
+        <card>477040601240</card>
+    <result>012N nombre 26	 A apellido 26	 E 26	16/03/2015 Customer not exist</result></payment>
+
+
+</payments>
